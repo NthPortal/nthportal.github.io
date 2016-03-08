@@ -1,0 +1,4 @@
+[submodule "otb"]
+	path = otb
+	url = https://github.com/NthPortal/OTBProject.github.io
+	branch = master
