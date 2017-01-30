@@ -1,7 +1,3 @@
-[submodule "otb"]
-	path = otb
-	url = https://github.com/NthPortal/OTBProject.github.io
-	branch = master
 [submodule "cancellable-task"]
 	path = docs/cancellable-task
 	url = https://github.com/NthPortal/docs.cancellable-task
