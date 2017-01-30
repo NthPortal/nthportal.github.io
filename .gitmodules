@@ -5,3 +5,6 @@
 [submodule "docs/future-queue"]
 	path = docs/future-queue
 	url = https://github.com/NthPortal/docs.future-queue
+[submodule "docs/versions"]
+	path = docs/versions
+	url = https://github.com/NthPortal/docs.versions
