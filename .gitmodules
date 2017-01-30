@@ -2,10 +2,6 @@
 	path = otb
 	url = https://github.com/NthPortal/OTBProject.github.io
 	branch = master
-[submodule "0xabad1dea-clone"]
-	path = 0xabad1dea-gh
-	url = https://github.com/NthPortal/0xabad1dea.github.com
-	branch = links
 [submodule "cancellable-task"]
 	path = docs/cancellable-task
 	url = https://github.com/NthPortal/docs.cancellable-task
