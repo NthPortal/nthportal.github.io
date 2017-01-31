@@ -8,3 +8,6 @@
 [submodule "docs/versions"]
 	path = docs/versions
 	url = https://github.com/NthPortal/docs.versions
+[submodule "docs/app-shell"]
+	path = docs/app-shell
+	url = https://github.com/NthPortal/docs.app-shell
