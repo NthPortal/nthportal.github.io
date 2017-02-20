@@ -11,3 +11,6 @@
 [submodule "docs/app-shell"]
 	path = docs/app-shell
 	url = https://github.com/NthPortal/docs.app-shell
+[submodule "docs/extra-predef"]
+	path = docs/extra-predef
+	url = https://github.com/NthPortal/docs.extra-predef
