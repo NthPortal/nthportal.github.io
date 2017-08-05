@@ -14,3 +14,6 @@
 [submodule "docs/extra-predef"]
 	path = docs/extra-predef
 	url = https://github.com/NthPortal/docs.extra-predef
+[submodule "editor"]
+	path = editor
+	url = https://github.com/NthPortal/html-text-editor.git
