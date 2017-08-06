@@ -17,3 +17,6 @@
 [submodule "editor"]
 	path = editor
 	url = https://github.com/NthPortal/html-text-editor.git
+[submodule "paste"]
+	path = paste
+	url = https://github.com/NthPortal/compressed-text-editor.git
