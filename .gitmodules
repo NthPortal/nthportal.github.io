@@ -1,18 +1,18 @@
 [submodule "cancellable-task"]
-	path = docs/cancellable-task
+	path = docs/scala/cancellable-task
 	url = https://github.com/NthPortal/docs.cancellable-task
 	branch = master
 [submodule "docs/future-queue"]
-	path = docs/future-queue
+	path = docs/scala/future-queue
 	url = https://github.com/NthPortal/docs.future-queue
 [submodule "docs/versions"]
-	path = docs/versions
+	path = docs/scala/versions
 	url = https://github.com/NthPortal/docs.versions
 [submodule "docs/app-shell"]
-	path = docs/app-shell
+	path = docs/scala/app-shell
 	url = https://github.com/NthPortal/docs.app-shell
 [submodule "docs/extra-predef"]
-	path = docs/extra-predef
+	path = docs/scala/extra-predef
 	url = https://github.com/NthPortal/docs.extra-predef
 [submodule "editor"]
 	path = editor
