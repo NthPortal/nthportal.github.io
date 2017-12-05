@@ -20,5 +20,5 @@
 	path = paste
 	url = https://github.com/NthPortal/compressed-text-editor.git
 [submodule "docs/cons-list-rs"]
-	path = docs/cons-list-rs
+	path = docs/rust/cons-list-rs
 	url = https://github.com/NthPortal/docs.cons-list-rs
