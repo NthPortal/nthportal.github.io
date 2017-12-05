@@ -1,7 +1,6 @@
-[submodule "cancellable-task"]
+[submodule "docs/cancellable-task"]
 	path = docs/scala/cancellable-task
 	url = https://github.com/NthPortal/docs.cancellable-task
-	branch = master
 [submodule "docs/future-queue"]
 	path = docs/scala/future-queue
 	url = https://github.com/NthPortal/docs.future-queue
