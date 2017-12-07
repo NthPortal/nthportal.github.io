@@ -1,4 +1,6 @@
-<head><title>Projects</title></head>
+# Projects
+
+[<=](..)
 
 [app-shell](app-shell)
 
