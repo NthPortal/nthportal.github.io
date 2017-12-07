@@ -1,6 +1,4 @@
-[<=](..)
-
-# Projects
+# Scala Projects
 
 [app-shell](app-shell)
 
@@ -11,3 +9,7 @@
 [future-queue](future-queue)
 
 [versions](versions)
+
+----------------
+
+[<=](..)
