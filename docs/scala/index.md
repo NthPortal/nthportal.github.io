@@ -1,4 +1,4 @@
-title: Projects
+<head><title>Projects</title></head>
 
 [app-shell](app-shell)
 
