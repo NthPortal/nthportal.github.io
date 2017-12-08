@@ -1,6 +1,6 @@
 # Rust Projects
 
-[nth-cons-list](cons-list-rs)
+[nth-cons-list](nth-cons-list)
 
 ----------------
 
