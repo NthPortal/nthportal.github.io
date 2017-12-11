@@ -1,8 +1,8 @@
 # Languages
 
-[Scala](scala)
-
 [Rust](rust)
+
+[Scala](scala)
 
 ----------------
 
