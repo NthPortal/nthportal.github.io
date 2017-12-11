@@ -22,3 +22,12 @@
 [submodule "docs/cons-list-rs"]
 	path = docs/rust/nth-cons-list
 	url = https://github.com/NthPortal/docs.cons-list-rs
+[submodule "docs/play-json-value-format"]
+	path = docs/scala/play-json-value-format
+	url = https://github.com/NthPortal/docs.play-json-value-format.git
+[submodule "docs/convert"]
+	path = docs/scala/convert
+	url = https://github.com/NthPortal/docs.convert.git
+[submodule "docs/testing-utils"]
+	path = docs/scala/testing-utils
+	url = https://github.com/NthPortal/docs.testing-utils.git
